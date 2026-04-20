@@ -1,0 +1,61 @@
+{
+  "shareMeta": {
+    "title": "Rosa Schlübber on TikTok",
+    "desc": "@rosaschluebber 0 Followers, 4 Following, 0 Likes - Watch awesome short videos created by Rosa Schlübber"
+  },
+  "statusCode": 10222,
+  "status_code": 0,
+  "status_msg": "",
+  "userInfo": {
+    "stats": {
+      "followerCount": 0,
+      "followingCount": 4,
+      "heart": 0,
+      "heartCount": 0,
+      "videoCount": 0,
+      "diggCount": 0,
+      "friendCount": 0
+    },
+    "statsV2": {
+      "followerCount": "0",
+      "followingCount": "4",
+      "heart": "0",
+      "heartCount": "0",
+      "videoCount": "0",
+      "diggCount": "0",
+      "friendCount": "0"
+    },
+    "user": {
+      "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ed5fe8b6&x-expires=1776888000&x-signature=F8SKkbSuimQ8Y%2BGLFg90E2D%2BWpI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=21d8c511&x-expires=1776888000&x-signature=kHTu3UtQYmXtrNfxPHuS3rU0nxw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "canExpPlaylist": true,
+      "commerceUserInfo": {
+        "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7601249102840792086",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1776715052,
+      "nickname": "Rosa Schlübber",
+      "openFavorite": false,
+      "privateAccount": true,
+      "profileEmbedPermission": 3,
+      "profileTab": {
+        "showMusicTab": false,
+        "showQuestionTab": false,
+        "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+      "secret": true,
+      "signature": "",
+      "ttSeller": false,
+      "uniqueId": "rosaschluebber",
+      "verified": false
+    }
+  }
+}

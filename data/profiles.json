@@ -1,0 +1,517 @@
+{
+  "secuid:ms4wljabaaaaaqxxs1qe3w7hx_9jcthdy9d-ubgx-3xhwdoslatl1yinmmtokop7hgjur3eoc0mn": {
+    "first_seen_at": "2026-04-20 21:53:04",
+    "last_seen_at": "2026-04-20 22:52:20",
+    "username": "rosaschluebber",
+    "notes": [],
+    "snapshots": [
+      {
+        "seen_at": "2026-04-20 21:53:04",
+        "normalized": {
+          "username": "yoppy.huso",
+          "nickname": "Yoopy hurensohn",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": null,
+          "private_account": null,
+          "avatar": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=8bcb0380&x-expires=1776884400&x-signature=u4%2F1VDJLSvt58AyN5yVA8G10mUk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+          "follower_count": 0,
+          "following_count": 0,
+          "likes_count": null,
+          "video_count": null,
+          "friend_count": null,
+          "create_time": null,
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "raw_top_keys": [
+            "extra",
+            "log_pb",
+            "status_code",
+            "status_msg",
+            "user"
+          ]
+        }
+      },
+      {
+        "seen_at": "2026-04-20 21:59:02",
+        "normalized": {
+          "username": "rosaschluebber",
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": null,
+          "private_account": null,
+          "avatar": "https://p16-common-sign.tiktokcdn-eu.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=8bcb0380&x-expires=1776884400&x-signature=u4%2F1VDJLSvt58AyN5yVA8G10mUk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+          "follower_count": 0,
+          "following_count": 4,
+          "likes_count": null,
+          "video_count": null,
+          "friend_count": null,
+          "create_time": null,
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "raw_top_keys": [
+            "extra",
+            "log_pb",
+            "status_code",
+            "status_msg",
+            "user"
+          ]
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:15:23",
+        "normalized": {
+          "username": "rosaschluebber",
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": null,
+          "private_account": 1,
+          "avatar": "https://p19-common-sign.tiktokcdn-eu.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=53376483&x-expires=1776888000&x-signature=KZ3TSyO2rTXXiLD6YxHlzif7n4g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+          "follower_count": 0,
+          "following_count": 4,
+          "likes_count": null,
+          "video_count": null,
+          "friend_count": null,
+          "create_time": null,
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "raw_top_keys": [
+            "extra",
+            "log_pb",
+            "status_code",
+            "status_msg",
+            "user"
+          ]
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:19:18",
+        "normalized": {
+          "username": null,
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": "Keine Bio",
+          "private_account": false,
+          "avatar": null,
+          "follower_count": 0,
+          "following_count": 0,
+          "likes_count": 0,
+          "video_count": 0,
+          "friend_count": 0,
+          "create_time": "Unbekannt",
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN"
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:23:58",
+        "normalized": {
+          "username": null,
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": "Keine Bio",
+          "private_account": false,
+          "avatar": null,
+          "follower_count": 0,
+          "following_count": 0,
+          "likes_count": 0,
+          "video_count": 0,
+          "friend_count": 0,
+          "create_time": "Unbekannt",
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN"
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:46:29",
+        "normalized": {
+          "username": "rosaschluebber",
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": "Keine Bio",
+          "private_account": true,
+          "avatar": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "follower_count": 0,
+          "following_count": 4,
+          "likes_count": 0,
+          "video_count": 0,
+          "friend_count": 0,
+          "create_time": "Unbekannt",
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN"
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:49:00",
+        "normalized": {
+          "username": "rosaschluebber",
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": "Keine Bio",
+          "private_account": true,
+          "avatar": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+          "follower_count": 0,
+          "following_count": 4,
+          "likes_count": 0,
+          "video_count": 0,
+          "friend_count": 0,
+          "create_time": "Unbekannt",
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN"
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:52:20",
+        "normalized": {
+          "username": "rosaschluebber",
+          "nickname": "Rosa Schlübber",
+          "user_id": "7601249102840792086",
+          "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "bio": "Keine Bio",
+          "private_account": true,
+          "avatar": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "follower_count": 0,
+          "following_count": 4,
+          "likes_count": 0,
+          "video_count": 0,
+          "friend_count": 0,
+          "create_time": "Unbekannt",
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "share_title": "Rosa Schlübber on TikTok",
+          "share_desc": "@rosaschluebber 0 Followers, 4 Following, 0 Likes - Watch awesome short videos created by Rosa Schlübber",
+          "nickname_modify_time": "2026-04-20 21:57:32"
+        }
+      }
+    ],
+    "username_changes": [
+      {
+        "changed_at": "2026-04-20 21:59:02",
+        "from": "yoppy.huso",
+        "to": "rosaschluebber"
+      }
+    ],
+    "nickname_changes": [
+      {
+        "changed_at": "2026-04-20 21:59:02",
+        "from": "Yoopy hurensohn",
+        "to": "Rosa Schlübber"
+      }
+    ],
+    "last_payload": {
+      "shareMeta": {
+        "title": "Rosa Schlübber on TikTok",
+        "desc": "@rosaschluebber 0 Followers, 4 Following, 0 Likes - Watch awesome short videos created by Rosa Schlübber"
+      },
+      "statusCode": 10222,
+      "status_code": 0,
+      "status_msg": "",
+      "userInfo": {
+        "stats": {
+          "followerCount": 0,
+          "followingCount": 4,
+          "heart": 0,
+          "heartCount": 0,
+          "videoCount": 0,
+          "diggCount": 0,
+          "friendCount": 0
+        },
+        "statsV2": {
+          "followerCount": "0",
+          "followingCount": "4",
+          "heart": "0",
+          "heartCount": "0",
+          "videoCount": "0",
+          "diggCount": "0",
+          "friendCount": "0"
+        },
+        "user": {
+          "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ed5fe8b6&x-expires=1776888000&x-signature=F8SKkbSuimQ8Y%2BGLFg90E2D%2BWpI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=21d8c511&x-expires=1776888000&x-signature=kHTu3UtQYmXtrNfxPHuS3rU0nxw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+          "canExpPlaylist": true,
+          "commerceUserInfo": {
+            "commerceUser": false
+          },
+          "downloadSetting": 3,
+          "followingVisibility": 1,
+          "ftc": false,
+          "id": "7601249102840792086",
+          "isADVirtual": false,
+          "isEmbedBanned": false,
+          "nickNameModifyTime": 1776715052,
+          "nickname": "Rosa Schlübber",
+          "openFavorite": false,
+          "privateAccount": true,
+          "profileEmbedPermission": 3,
+          "profileTab": {
+            "showMusicTab": false,
+            "showQuestionTab": false,
+            "showPlayListTab": false
+          },
+          "relation": 0,
+          "secUid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+          "secret": true,
+          "signature": "",
+          "ttSeller": false,
+          "uniqueId": "rosaschluebber",
+          "verified": false
+        }
+      }
+    },
+    "last_normalized": {
+      "username": "rosaschluebber",
+      "nickname": "Rosa Schlübber",
+      "user_id": "7601249102840792086",
+      "sec_uid": "MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+      "bio": "Keine Bio",
+      "private_account": true,
+      "avatar": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=d8d2feb0&x-expires=1776888000&x-signature=i6x04sWOxwAEbXTRgY%2BcmQYDOGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "follower_count": 0,
+      "following_count": 4,
+      "likes_count": 0,
+      "video_count": 0,
+      "friend_count": 0,
+      "create_time": "Unbekannt",
+      "permalink": "https://www.tiktok.com/@MS4wLjABAAAAaqxXs1qE3W7HX_9JCthDy9D-ubgX-3xHwdosLatL1YinmMToKOp7HgJur3EoC0MN",
+      "share_title": "Rosa Schlübber on TikTok",
+      "share_desc": "@rosaschluebber 0 Followers, 4 Following, 0 Likes - Watch awesome short videos created by Rosa Schlübber",
+      "nickname_modify_time": "2026-04-20 21:57:32"
+    }
+  },
+  "secuid:ms4wljabaaaafkg-1aoo-q2pzjfct2qsjm9pasabnclyvlpryzvkelrlz_emcbbctkxzv5czsbxs": {
+    "first_seen_at": "2026-04-20 22:09:31",
+    "last_seen_at": "2026-04-20 22:14:56",
+    "username": "fotzinger2",
+    "notes": [],
+    "snapshots": [
+      {
+        "seen_at": "2026-04-20 22:09:31",
+        "normalized": {
+          "username": "fotzinger2",
+          "nickname": "Fotzinger",
+          "user_id": "7497168248729289750",
+          "sec_uid": "MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+          "bio": null,
+          "private_account": null,
+          "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=c65f60df&x-expires=1776888000&x-signature=OWQ7kCv13pjt727wYfYc%2BTWXfmY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+          "follower_count": 322,
+          "following_count": 902,
+          "likes_count": null,
+          "video_count": null,
+          "friend_count": null,
+          "create_time": null,
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+          "raw_top_keys": [
+            "extra",
+            "log_pb",
+            "status_code",
+            "status_msg",
+            "user"
+          ]
+        }
+      },
+      {
+        "seen_at": "2026-04-20 22:14:56",
+        "normalized": {
+          "username": "fotzinger2",
+          "nickname": "Fotzinger",
+          "user_id": "7497168248729289750",
+          "sec_uid": "MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+          "bio": null,
+          "private_account": 0,
+          "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=c65f60df&x-expires=1776888000&x-signature=OWQ7kCv13pjt727wYfYc%2BTWXfmY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+          "follower_count": 322,
+          "following_count": 902,
+          "likes_count": null,
+          "video_count": null,
+          "friend_count": null,
+          "create_time": null,
+          "permalink": "https://www.tiktok.com/@MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+          "raw_top_keys": [
+            "extra",
+            "log_pb",
+            "status_code",
+            "status_msg",
+            "user"
+          ]
+        }
+      }
+    ],
+    "username_changes": [],
+    "nickname_changes": [],
+    "last_payload": {
+      "extra": {
+        "fatal_item_ids": [],
+        "logid": "202604202014574B024049F315011FB4A9",
+        "now": 1776716097000
+      },
+      "log_pb": {
+        "impr_id": "202604202014574B024049F315011FB4A9"
+      },
+      "status_code": 0,
+      "status_msg": "",
+      "user": {
+        "account_type": 0,
+        "ad_virtual": false,
+        "avatar_168x168": {
+          "uri": "tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8",
+          "url_list": [
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:168:168.webp?dr=10397&refresh_token=09a8c885&x-expires=1776888000&x-signature=h%2BecWg%2FRPrfsRyaLPQqNXDwljeg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:168:168.webp?dr=10397&refresh_token=4555a1a2&x-expires=1776888000&x-signature=QkHoZQqi9UZgUBN8boFbByJhICY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:168:168.jpeg?dr=10397&refresh_token=6768ec2e&x-expires=1776888000&x-signature=S1Qj0WGmDZHIWsazwCLreG3vdmo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a"
+          ],
+          "url_prefix": null
+        },
+        "avatar_300x300": {
+          "uri": "tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8",
+          "url_list": [
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:300:300.webp?dr=10397&refresh_token=3e547824&x-expires=1776888000&x-signature=dOTFyA6bknsQu6kF8noGqWZIf9o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:300:300.webp?dr=10397&refresh_token=686b808d&x-expires=1776888000&x-signature=%2FAuysxLReP0%2F7F%2B9mN1vXezqPgo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:300:300.jpeg?dr=10397&refresh_token=d8d1a374&x-expires=1776888000&x-signature=sh44M1GoGmtiSJn8akzhmEUUzEM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a"
+          ],
+          "url_prefix": null
+        },
+        "avatar_larger": {
+          "uri": "tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8",
+          "url_list": [
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=c65f60df&x-expires=1776888000&x-signature=OWQ7kCv13pjt727wYfYc%2BTWXfmY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=531fa4b0&x-expires=1776888000&x-signature=5VKPS%2F%2Fjbsej7N7EnaQ4MjPBCNg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&refresh_token=eeee4092&x-expires=1776888000&x-signature=lbUj1myGMq%2B9E0enkDgEZUHqL2o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a"
+          ],
+          "url_prefix": null
+        },
+        "avatar_medium": {
+          "uri": "tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8",
+          "url_list": [
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:720:720.webp?dr=10399&refresh_token=2c79bb85&x-expires=1776888000&x-signature=sKGnNjW6nhRrUnsFYs9BMPo7GXk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:720:720.webp?dr=10399&refresh_token=7b3f05a7&x-expires=1776888000&x-signature=mF2qJHtWJWCtwkJLHN84s2O6L2Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=c4135bb8&x-expires=1776888000&x-signature=ktnldScIR574hXydd3OEKMyeVFM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a"
+          ],
+          "url_prefix": null
+        },
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8",
+          "url_list": [
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:100:100.webp?dr=10399&refresh_token=9abf2229&x-expires=1776888000&x-signature=l7j1jQKaAkqIgE7d7ZQzdGxKj%2Bs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:100:100.webp?dr=10399&refresh_token=3e8cd899&x-expires=1776888000&x-signature=TdwXt%2BA0yBcCjXt%2BZaOuyrB3MNY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+            "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=35e0c0e4&x-expires=1776888000&x-signature=RhCwTjBJn509eRu9%2FWrNVZCRd14%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a"
+          ],
+          "url_prefix": null
+        },
+        "aweme_count": 2,
+        "can_message_follow_status_list": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "category": "",
+        "commerce_user_info": {
+          "ad_revenue_rits": null
+        },
+        "commerce_user_level": 0,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "favoriting_count": 0,
+        "follow_status": 0,
+        "follower_count": 322,
+        "follower_status": 0,
+        "following_count": 902,
+        "forward_count": 0,
+        "has_open_favorite": false,
+        "ins_id": "",
+        "is_acquaintance": false,
+        "is_block": false,
+        "is_blocked": false,
+        "is_effect_artist": false,
+        "is_star": false,
+        "live_commerce": false,
+        "live_push_notification_status": 2,
+        "message_chat_entry": true,
+        "mplatform_followers_count": 0,
+        "music_tab_info": {
+          "show_artist_pick_videos": true
+        },
+        "nickname": "Fotzinger",
+        "original_musician": {
+          "digg_count": 0,
+          "music_count": 0,
+          "music_used_count": 0,
+          "new_release_clip_ids": null
+        },
+        "post_push_notification_status": 2,
+        "privacy_setting": {
+          "following_visibility": 2
+        },
+        "profile_tab_type": 0,
+        "recommend_reason_relation": "",
+        "room_id": 0,
+        "sec_uid": "MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+        "secret": 0,
+        "share_info": {
+          "now_invitation_card_image_urls": null,
+          "share_desc": "Check out Fotzinger! #TikTok",
+          "share_title": "Join TikTok and see what I’ve been up to!",
+          "share_url": "https://www.tiktok.com/@fotzinger2?_r=1&_d=f33j8he6f17f32&sec_uid=MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS&share_author_id=7497168248729289750&sharer_language=en&source=h5_m&u_code=f0i6hdb7h65980"
+        },
+        "short_id": "0",
+        "show_favorite_list": false,
+        "show_messaging_entrance_on_profile": true,
+        "signature": "",
+        "signature_language": "un",
+        "story_status": 0,
+        "supporting_ngo": {},
+        "tab_settings": {
+          "private_tab": {
+            "private_tab_style": 1,
+            "show_private_tab": false
+          },
+          "repost_tab": {
+            "repost_tab_all_visible": true,
+            "show_repost_tab_other": 1
+          },
+          "sticker_tab": {
+            "show_sticker_tab": true,
+            "show_video_sticker": true,
+            "video_sticker_count": 1
+          }
+        },
+        "total_favorited": 19,
+        "twitter_id": "",
+        "twitter_name": "",
+        "uid": "7497168248729289750",
+        "unique_id": "fotzinger2",
+        "verification_type": 0,
+        "visible_videos_count": 2,
+        "watch_status": false,
+        "with_commerce_enterprise_tab_entry": false,
+        "with_commerce_entry": false,
+        "with_new_goods": false,
+        "youtube_channel_id": "",
+        "youtube_channel_title": ""
+      }
+    },
+    "last_normalized": {
+      "username": "fotzinger2",
+      "nickname": "Fotzinger",
+      "user_id": "7497168248729289750",
+      "sec_uid": "MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+      "bio": null,
+      "private_account": 0,
+      "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/d3eac2b95715972540b2097720589ef8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=10399&refresh_token=c65f60df&x-expires=1776888000&x-signature=OWQ7kCv13pjt727wYfYc%2BTWXfmY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=no1a",
+      "follower_count": 322,
+      "following_count": 902,
+      "likes_count": null,
+      "video_count": null,
+      "friend_count": null,
+      "create_time": null,
+      "permalink": "https://www.tiktok.com/@MS4wLjABAAAAfkg-1AoO-Q2pzjfCt2qSJM9PASabNClyVLPRYZvKELRLZ_eMCbbCTKXZv5cZSBXS",
+      "raw_top_keys": [
+        "extra",
+        "log_pb",
+        "status_code",
+        "status_msg",
+        "user"
+      ]
+    }
+  }
+}
